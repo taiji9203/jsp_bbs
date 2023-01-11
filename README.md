@@ -45,3 +45,6 @@
 
 ![image](https://github.com/taiji9203/jsp_bbs/blob/main/images/main05.jpg)
 
+### 6. 시연 동영상 링크
+
+https://youtu.be/lRx4yHgizeI
