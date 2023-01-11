@@ -25,6 +25,10 @@
 
 # 게시판 구현 이미지
 
+### 1. 메인 화면
+
+![image](https://github.com/taiji9203/java_html/blob/main/img/main01.png)
+
 
 
 
