@@ -27,8 +27,21 @@
 
 ### 1. 메인 화면
 
-![image](https://github.com/taiji9203/java_html/blob/main/img/main01.png)
+![image](https://github.com/taiji9203/jsp_bbs/blob/main/images/main01.jpg)
 
+### 2. 로그인 화면
 
+![image](https://github.com/taiji9203/jsp_bbs/blob/main/images/main02.jpg)
 
+### 3. 회원가입 화면
+
+![image](https://github.com/taiji9203/jsp_bbs/blob/main/images/main03.jpg)
+
+### 4. 게시판 화면
+
+![image](https://github.com/taiji9203/jsp_bbs/blob/main/images/main04.jpg)
+
+### 5. MYSQL DB 생성 화면
+
+![image](https://github.com/taiji9203/jsp_bbs/blob/main/images/main05.jpg)
 
